@@ -1,7 +1,7 @@
 # portfolio-Luiz-Enrique-Silva
 
 # Luiz Enrique Silva dos Santos
-> 💻 Desenvolvedor em formação | Python • JavaScript • Backend & Frontend
+> Estudante de **Analise e Desenvolvimento de Sistemas**
  
 ---
  
