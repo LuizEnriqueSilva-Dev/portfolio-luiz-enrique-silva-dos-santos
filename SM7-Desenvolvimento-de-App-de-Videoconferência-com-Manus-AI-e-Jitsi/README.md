@@ -137,7 +137,6 @@ Certifique-se de ter instalado:
 
 4. **Abra no Expo Go:**
    - Escaneie o código QR exibido no terminal com o Expo Go
-   - Ou acesse `http://localhost:8081` no navegador
 
 ### Build para Produção
 
