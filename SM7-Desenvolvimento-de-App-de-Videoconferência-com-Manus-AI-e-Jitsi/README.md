@@ -2,6 +2,11 @@
 
 Um aplicativo React Native desenvolvido com Expo que oferece consultoria botânica em tempo real com análise de plantas por inteligência artificial, videoconferência integrada e recomendações personalizadas de cuidado.
 
+# Link de Pré-Visualização: https://manus.im/app-preview/8fRxWN7B9ZvECBoUiMJnAe?sessionId=fbnbQ2ZXdYB9GD2fa6lr73
+# QR-Code: 
+<img width="218" height="216" alt="Captura de tela 2026-05-04 224812" src="https://github.com/user-attachments/assets/5037952c-a9aa-4b2d-88fa-e2b587fa4a3d" />
+ 
+
 ## Visão Geral
 
 PlantCare Live permite que usuários fotografem suas plantas e recebam diagnósticos instantâneos sobre problemas de saúde, como folhas secas, amareladas ou possível infestação de pragas. O aplicativo integra videoconferência para consultas com especialistas e utiliza análise de imagem com inteligência artificial para fornecer recomendações precisas e acionáveis.
@@ -275,6 +280,4 @@ Para reportar bugs ou solicitar funcionalidades, abra uma issue no repositório.
 - [ ] Modo offline completo
 - [ ] Suporte a múltiplos idiomas
 
----
 
-**Desenvolvido com ❤️ usando React Native e Expo**
