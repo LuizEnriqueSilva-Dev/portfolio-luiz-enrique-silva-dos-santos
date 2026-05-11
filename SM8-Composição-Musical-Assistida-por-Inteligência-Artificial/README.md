@@ -19,7 +19,7 @@ O assistente (Gems) utilizado para modelagem das letras pode ser acessado atrav�
 ## 🎧 Músicas Geradas
 | Faixa | Título | Estilo/Referência | Link do Áudio |
 | :--- | :--- | :--- | :--- |
-| 01 | Interface Falha | Sertanejo | [Arquivo MP3](./audio/Interface-Falhamp3) |
+| 01 | Interface Falha | Sertanejo | [Arquivo MP3](./audio/Interface-Falha.mp3) |
 | 02 | Mestre do Tabuleiro | Trap | [Arquivo MP3](./audio/Mestre-do-Tabuleiro.mp3) |
 | 03 | Ouro de Amigo | Melodic Trap | [Arquivo MP3](./audio/Ouro-de-Amigo.mp3) |
 | 04 | Vazio no Asfalto | Sertanejo | [Arquivo MP3](./audio/Vazio-no-Asfalto.mp3) |
