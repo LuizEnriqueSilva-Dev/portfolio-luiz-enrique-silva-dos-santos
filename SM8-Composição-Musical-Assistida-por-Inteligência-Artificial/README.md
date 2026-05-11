@@ -19,11 +19,11 @@ O assistente (Gems) utilizado para modelagem das letras pode ser acessado atrav�
 ## 🎧 Músicas Geradas
 | Faixa | Título | Estilo/Referência | Link do Áudio |
 | :--- | :--- | :--- | :--- |
-| 01 | Interface Falha | Sertanejo | [Arquivo MP3](./audio/musica1.mp3) |
-| 02 | Mestre do Tabuleiro | Trap | [Arquivo MP3](./audio/musica2.mp3) |
-| 03 | Ouro de Amigo | Melodic Trap | [Arquivo MP3](./audio/musica3.mp3) |
-| 04 | Vazio no Asfalto | Sertanejo | [Arquivo MP3](./audio/musica4.mp3) |
-| 05 | [Título 05] | [Estilo] | [Arquivo MP3](./audio/musica5.mp3) |
+| 01 | Interface Falha | Sertanejo | [Arquivo MP3](./audio/Interface-Falhamp3) |
+| 02 | Mestre do Tabuleiro | Trap | [Arquivo MP3](./audio/Mestre-do-Tabuleiro.mp3) |
+| 03 | Ouro de Amigo | Melodic Trap | [Arquivo MP3](./audio/Ouro-de-Amigo.mp3) |
+| 04 | Vazio no Asfalto | Sertanejo | [Arquivo MP3](./audio/Vazio-no-Asfalto.mp3) |
+| 05 | Horizonte de Prata | K-POP | [Arquivo MP3](./audio/Horiznte-de-Prata.mp3) |
  
 ## 📄 Processo de Criação
 1. **Curadoria:** Seleção de 10 letras do artista base.
