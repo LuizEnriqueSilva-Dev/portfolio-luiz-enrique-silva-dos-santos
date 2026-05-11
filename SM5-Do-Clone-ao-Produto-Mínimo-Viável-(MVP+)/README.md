@@ -1,4 +1,4 @@
-🎨 NovForms
+##🎨 NovForms##
 
 NovForms é uma ferramenta web recriada com apoio de IA para geração de formas SVG orgânicas de maneira rápida, moderna e personalizável.
 O projeto evolui a ideia original de geradores de blobs, adicionando novos recursos, integração com Firebase e melhorias focadas em produtividade para designers e desenvolvedores.
