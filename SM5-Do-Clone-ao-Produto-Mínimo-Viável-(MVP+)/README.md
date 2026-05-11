@@ -1,9 +1,9 @@
-##🎨 NovForms##
+#🎨 NovForms
 
 NovForms é uma ferramenta web recriada com apoio de IA para geração de formas SVG orgânicas de maneira rápida, moderna e personalizável.
 O projeto evolui a ideia original de geradores de blobs, adicionando novos recursos, integração com Firebase e melhorias focadas em produtividade para designers e desenvolvedores.
 
-🚀 Sobre o Projeto
+#🚀 Sobre o Projeto
 
 O NovForms permite criar formas orgânicas (blobs) para uso em:
 
@@ -15,7 +15,7 @@ Protótipos visuais
 
 A aplicação foi reimaginada utilizando Desenvolvimento Assistido por IA, com foco em lógica funcional, escalabilidade e experiência do usuário.
 
-✨ Funcionalidades
+#✨ Funcionalidades
 
 ✅ Geração dinâmica de formas SVG
 ✅ Customização de cor, complexidade e suavidade
@@ -40,11 +40,11 @@ Hosting
 Analytics
 Remote Config
 
-🌐 Deploy
+#🌐 Deploy
 
 O projeto pode ser hospedado utilizando Firebase Hosting, com HTTPS gratuito e pronto para portfólio.
 
-🎯 Objetivo Acadêmico
+#🎯 Objetivo Acadêmico
 
 Este projeto foi desenvolvido como prática de:
 
@@ -54,12 +54,12 @@ Integração de serviços em nuvem
 Criação de diferenciais competitivos em software
 📸 Preview
 
-(adicione aqui screenshots do projeto)
 
-📄 Licença
+
+#📄 Licença
 
 Este projeto é destinado para fins educacionais e de portfólio.
 
-👨‍💻 Autor
+#👨‍💻 Autor
 
 Desenvolvido por Luiz Enrique Silva 🚀
