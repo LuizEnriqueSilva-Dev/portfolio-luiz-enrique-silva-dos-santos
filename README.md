@@ -67,6 +67,7 @@ Busco minha **primeira oportunidade em tecnologia**, unindo **vivência prática
 | **SM4 - Engenharia Reversa** | Desenvolvimento assistido por IA, competências emergentes e os limites éticos da engenharia reversa, destacando pensamento crítico, adaptação tecnológica e originalidade na criação de software. | [Ver Projeto](./SM4-Engenharia-Reversa/)
 **SM5 - Do Clone ao Produto Mínimo Viável (MVP+)** | Desenvolvimento de uma interface web moderna para formass digitais, priorizando design responsivo, acessibilidade e interação eficiente entre usuário e sistema. | [Ver Projeto](./SM5-Do-Clone-ao-Produto-Mínimo-Viável-(MVP+)/)
 **SM7 - Desenvolvimento de App de Videoconferência com Manus AI e Jitsi** | Aplicativo de videoconferência com integração do SDK do Jitsi Meet e suporte a inteligência artificial para análise visual de plantas em tempo real, permitindo diagnósticos e recomendações durante a chamada.  | [Ver Projeto](./SM7-Desenvolvimento-de-App-de-Videoconferência-com-Manus-AI-e-Jitsi/)
+**SM8 - Composição Musical Assistida por Inteligência Artificial** | Projeto focado na integração entre criatividade humana e Inteligência Artificial, utilizando técnicas de RAG (Retrieval-Augmented Generation) com Gemini Gems para análise lírica de um artista e geração de um EP com 5 faixas inéditas produzidas com apoio da Suno AI. | [Ver Projeto](./SM8-Composição-Musical-Assistida-por-Inteligência-Artificial/)
  
 ---
  
